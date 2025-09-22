@@ -1,0 +1,5 @@
+city,country_code,local_currency,amount,fx_rate_to_usd,amount_usd,latitude,longitude,temperature_c,windspeed_m_s,retrieved_at,errors
+Bengaluru,IN,INR,1250.50,0.011339000399840064,14.17942,12.97194,77.59369,21.6,10.8,2025-09-22T03:03:37.527857+00:00,
+Berlin,DE,EUR,89.90,1.173165005561735,105.467534,52.52437,13.41053,12.9,7.4,2025-09-22T03:03:38.424463+00:00,
+San Francisco,US,USD,42.00,,,37.77493,-122.41942,17.1,3.6,2025-09-22T03:03:39.293479+00:00,fx: 429 Client Error: Too Many Requests for url: https://api.exchangerate.host/convert?from=USD&to=USD&amount=42.00&access_key=a7efdeb5e15a2343c361b1776080a3df
+Tokyo,JP,JPY,3600,0.0067410000000000005,24.2676,35.6895,139.69171,25.5,7.4,2025-09-22T03:03:40.160843+00:00,
